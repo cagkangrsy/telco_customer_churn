@@ -55,6 +55,7 @@ Clone the project
 
 ```bash
   git clone https://github.com/cagkangrsy/telco_customer_churn_feature_engineering
+```
 
 Go to project directory
 
