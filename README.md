@@ -4,7 +4,7 @@
 
 * Telco customer churn data includes information about a fictitious telecom company that provided home phone and Internet services to 7043 California customers in the third quarter. It includes which customers have left, stayed or signed up for their service.
 
-## The dataset includes information about 
+## Dataset
 
 * 21 Variable 7043 Observation
 
