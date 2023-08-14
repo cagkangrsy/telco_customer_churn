@@ -6,7 +6,7 @@
 
 ## Dataset
 
-* 21 Variable 7043 Observation
+* 21 Variable 7043 Observations
 
 * Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
