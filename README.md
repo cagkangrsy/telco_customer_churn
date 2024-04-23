@@ -1,20 +1,3 @@
-
-## Run on your PC
-
-Clone the project
-
-```bash
-  git clone https://github.com/cagkangrsy/telco_customer_churn_feature_engineering
-```
-
-Go to project directory
-
-```bash
-  cd telco_customer_churn_feature_engineering
-```
-
-Run the notebook.
-
 # Telco Customer Churn Prediction
 
 This project aims to predict customer churn in a telecommunications company using machine learning techniques.
